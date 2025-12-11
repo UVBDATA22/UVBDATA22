@@ -1,6 +1,4 @@
-Here is a version rewritten to match your resume and your own links; you can paste this into your GitHub profile README:
 
-```md
 <h1 align="center">Hi 👋, I'm Uday Bhagat</h1>
 <h3 align="center">Data Analyst </h3>
 
